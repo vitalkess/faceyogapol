@@ -1,7 +1,7 @@
 import { ProgramDay, Review, FAQItem, PricingPlan } from './types';
 
 export const PRICE: PricingPlan = {
-  current: 79,
+  current: 49,
   original: 399,
   currency: "zł"
 };
