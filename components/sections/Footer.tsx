@@ -60,8 +60,8 @@ const Footer: React.FC = () => {
                 <div className="max-w-4xl mx-auto px-4">
                     <p className="mb-4">CRAFT SALE ECOM LIMITED<br />Room 5058, 5/F., Yau Lee Centre, 45 Hoi Yuen Road, Kwun Tong, Kowloon, Hong Kong</p>
                     <div className="flex justify-center gap-4 flex-wrap">
-                        <a href="#" className="underline hover:text-white">Oferta publiczna</a>
-                        <a href="#" className="underline hover:text-white">Polityka prywatności</a>
+                        <a href="/oferta-publiczna.html" className="underline hover:text-white">Oferta publiczna</a>
+                        <a href="/polityka-prywatnosci.html" className="underline hover:text-white">Polityka prywatności</a>
                     </div>
                     <p className="mt-8 opacity-50">© 2024 Face Yoga Marathon. Wszelkie prawa zastrzeżone.</p>
                 </div>
