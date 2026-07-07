@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
             {/* --- REAL FOOTER --- */}
             <footer className="bg-gray-900 text-gray-400 py-12 text-center text-sm">
                 <div className="max-w-4xl mx-auto px-4">
-                    <p className="mb-4">FOP Ivanenko A.A. NIP 1234567890</p>
+                    <p className="mb-4">CRAFT SALE ECOM LIMITED<br />Room 5058, 5/F., Yau Lee Centre, 45 Hoi Yuen Road, Kwun Tong, Kowloon, Hong Kong</p>
                     <div className="flex justify-center gap-4 flex-wrap">
                         <a href="#" className="underline hover:text-white">Oferta publiczna</a>
                         <a href="#" className="underline hover:text-white">Polityka prywatności</a>
